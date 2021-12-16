@@ -1,0 +1,418 @@
+body{
+	margin: 0%;
+	font-family: sans-serif;
+}
+.content{
+	background:url(../../assets/images/bg.jpg);
+	background-repeat: no-repeat;
+	height: 100vh;
+	width: 320px;
+	margin-left: 38%;
+}
+.img{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top:280px;
+}
+.img2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top: 100px;
+
+}
+.learn{
+	background: deepskyblue;
+	padding: 18px;
+	margin-top: 3%;
+}
+.learn h1{
+	color: #fff;
+	font-weight: bold;
+	font-size: 30px;
+	/*margin-left: 5rem;*/
+
+}
+.learn p{
+	color: #fff;
+	font-weight: normal;
+	font-size: 20px;
+	/*margin-left: 5rem;*/
+}
+.button{
+	height: 60px;
+	width: 200px;
+	border-radius: 100px;
+	font-family: sans-serif;
+	color: deepskyblue;
+	margin-top: 14%;
+}
+
+.button:hover{
+	height: 50px;
+	width: 200px;
+	border-radius: 100px;
+	font-family: sans-serif;
+	color: deepskyblue;
+	margin-top: 14%;
+}
+
+.button:visited{
+	height: 50px;
+	width: 200px;
+	border-radius: 100px;
+	font-family: sans-serif;
+	color: deepskyblue;
+	margin-top: 14%;
+}
+
+
+.button img{
+	height:35px;
+	width: 35px;
+}
+
+/*welcome end*/
+.learn-design h2{
+	color: dimgray;
+	font-weight: bolder;
+	font-size: 30px;
+}
+.learn-design p{
+	color:gray;
+	font-weight: lighter;
+	font-size: 17px;
+}
+
+.sumer h1{
+	font-size: 40px;
+	font-weight: bolder;
+	color: dimgray;
+	margin: 0%;
+
+}
+.sumer{
+}
+.sumer hr{
+	background: deepskyblue;
+	border: 0px;
+	height: 9px;
+	margin-right:2rem;
+	margin-top: 0px;
+}
+.class{
+	display: flex;
+	justify-content:center;
+	align-items: center;
+}
+.course{
+	margin-top: 5rem;
+}
+.course h3{
+	color: dimgray;
+	font-weight: bolder;
+	font-size: 20px;
+}
+.course p{
+	color: deepskyblue;
+	font-weight: bolder;
+	font-size: 17px;
+}
+.course form input{
+	height: 30px;
+	width: 30px;
+}
+ h4{
+	font-size: 20px;
+	color: gray;
+	font-weight: lighter;
+}
+.course form{
+	display: flex;
+	align-items: center;
+}
+.bonus h2{
+	color: deepskyblue;
+	font-size: 15px;
+}
+.log-name{
+	margin-top: 7rem;
+}
+.log-name input{
+	border: 0px;
+	border-bottom: 2px solid gray;
+	height: 30px;
+	width: 28rem;
+}
+.log-name h2{
+	font-size: 20px;
+	font-weight: bolder;
+	color: dimgray
+}
+.register ul{
+	margin-top: 4rem;
+	list-style-type: none;
+
+}
+.register ul li a{
+	text-decoration: none;
+	border:1px solid deepskyblue;
+	padding: 13px;
+	background: deepskyblue;
+	color: white;
+}
+.icon{
+	border: 1px solid lightgray;
+	height: 100px;
+	width: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.icon img{
+	width: 60%;
+}
+.apps{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 4rem;
+}
+.require{
+	background: deepskyblue;
+	width: 500px;
+	height: 158px;
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	margin-top: 4rem;
+}
+.require h2{
+	color: #fff;
+	font-size: 23px;
+}
+.require ul li{
+	color: #fff;
+	list-style-type:square;
+	font-size: 19px;
+	
+}
+.power img{
+	margin: 0px;
+}
+.power h5{
+	color: gray;
+	font-size: 15px;
+	font-weight: lighter;
+}
+.visit h3{
+	font-size: 18px;
+	color: dimgray;
+	font-weight: bolder;
+}
+.visit p{
+	font-size: 13px;
+	color: gray;
+	font-weight: lighter;
+}
+.footer{
+	margin-top: 4rem;
+	margin-bottom: 3rem;
+}
+/*zio */
+.hea_d{
+	background:url(../../assets/images/picture.jpg);
+	height: 150vh;
+}
+.we-develope h1{
+	color: #fff;
+	font-size: 50px;
+	margin-top: 27%;
+	font-weight: bold;
+}
+.social{
+	color: orange;
+}
+.we-develope p{
+	color: #fff;
+	font-size: 18px;
+}
+.button-but ul{
+	list-style: none;
+	display: flex;
+	margin-top: 3%;
+}
+.button-but li{
+	padding: 6px;
+}
+.button-but ul li a{
+	text-decoration: none;
+	border:1px solid #fff;
+	padding: 15px;
+	color: #fff;
+}
+.get-started{
+	background:red;
+	height: 15rem;
+	width: 45%;
+	align-items: center;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	color: #fff;
+	font-weight: bolder;
+	margin-right: 15px;
+	background-repeat:no-repeat;
+}
+.NEWS{
+	background:url(../../assets/images/pic_1.jpg);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 45%;
+	height: 15rem;
+	font-family: sans-serif;
+
+}
+.NEWS h3{
+	font-size: 15px;
+	color: #000;
+	font-weight: bolder;
+}
+.INSIGHT{
+	background: silver;
+	width: 45%;
+	height: 15rem;
+	margin-left:15px;
+	background-repeat: no-repeat; 
+}
+.INSIGHT h4{
+	color: red;
+	font-family: sans-serif;
+	padding-top:3%;
+	font-size: 15px;
+	padding-left:7px; 
+}
+.INSIGHT p{
+	font-size: 13px;
+	font-family:sans-serif;
+	padding-left: 7px;
+}
+.INSIGHT h2{
+	font-size: 20px;
+	color: #000;
+	font-weight: bolder;
+	padding-left: 7px;
+}
+.all-get{
+	display: flex;
+
+}
+.all-insight{
+	display: flex;
+	margin-top: 15px;
+}
+.tale-margic{
+	background: url(../../assets/images/pic_4.png);
+	height: 31rem;
+	width: 31rem;
+	background-repeat: no-repeat;
+}
+.no-gultters{
+	margin-top: 50px;
+}
+.pad-down{
+	padding-top: 85%;
+	padding-left: 10px;
+}
+.pad-down h6{
+	color: silver;
+	font-weight: lighter;
+	font-size: 15px;
+}
+.pad-down p{
+	color: #fff;
+	font-size: 15px;
+	font-weight: lighter;
+}
+.who-work h2{
+	font-weight: bolder;
+	color: #000;
+	margin-top: 50px;
+	font-size: 30px;
+}
+.who-work p{
+	font-weight: lighter;
+	color: #000;
+	font-size: 16px;
+}
+.individual{
+	background:deepskyblue;
+	height: 17rem;
+	width: 100%;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	color: #fff;
+	font-weight: bold;
+}
+.Coperate{
+
+	background:forestgreen;
+	height: 17rem;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	font-weight: bold;
+}
+.Telecom{
+
+	background:orange;
+	height: 17rem;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	font-weight: bold;
+}
+.Media{
+
+	background:purple;
+	height: 17rem;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	font-weight: bold;
+}
+.ind-cop{
+	margin-bottom: 25px;
+}
+.process h3{
+	font-size: 25px;
+	color: #000;
+	font-weight: bolder;
+	margin-top: 5%;
+}
+.process p{
+	font-size: 15px;
+	color: #000;
+	font-weight: lighter;
+}
+.research{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 5%;
+}
+.research h3{
+	font-size: 20px;
+}
+footer{
+	margin-bottom: 50px;
+}

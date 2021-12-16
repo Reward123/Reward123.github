@@ -1,0 +1,19 @@
+@media(min-width:320px) and (max-width: 767px){
+
+.about_zio p{
+	text-align: center;
+	margin-top: 14px;
+	font-weight: lighter;
+	font-size: 14px;
+	color: dimgray;
+}
+
+.about_zio h2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 10rem;
+	font-size: 16;
+}
+
+}

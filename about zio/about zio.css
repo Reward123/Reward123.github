@@ -1,0 +1,144 @@
+body{
+	font-family: sans-serif,;
+	margin: 2%;
+}
+p, h1, h2, h3, h4, h5, h6,li, a{
+	font-family: sans-serif;
+	font-weight: normal;
+}
+.men_u ul{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	list-style: none;
+}
+.men_u ul a{
+	text-decoration: none;
+	padding: 10px;
+	color: #000;
+	font-size: 15px;
+}
+.request{
+	color: black;
+	font-weight: bolder;
+}
+.to_p{
+	display: flex;
+	justify-content: space-between;
+	align-items:center; 
+}
+.lo_go{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20rem;
+}
+.lo_go img{
+	width: 20%;
+}
+.mou_se{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top:18rem;
+}
+.about_zio h2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 10rem;
+	font-size: 25px;
+}
+
+.about_zio p{
+	text-align: center;
+	margin-top: 18px;
+	font-weight: lighter;
+	font-size: 18px;
+	color: dimgray;
+}
+.co_re h2{
+	text-align: center;
+	margin-top: 15rem;
+	color: #000;
+	font-weight: lighter;
+}
+.ma_p{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 4rem;
+
+}
+.mobile_app{
+	margin-right: 7%;
+}
+.web_apps{
+	margin-right: 7%;
+}
+.ma_p h6{
+	font-size: 18px;
+	color: #000;
+	font-weight: lighter;
+	margin-top: 5px;
+}
+.techno h2{
+	text-align: center;
+	color: dimgray;
+	font-weight: lighter;
+	margin-top: 13rem
+}
+.cc_c ul{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;/*
+	margin-right:11rem;
+	margin-left: 11rem;
+*/
+
+}
+.node{
+	border:1px solid lightgreen;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	list-style: none;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 25px;
+	
+}
+.cc_c ul a{
+	text-decoration: none;
+	color: #000;
+}
+.My_sql ul{
+	display: flex;
+	justify-content: space-between;
+	align-items: center/*;
+	margin-left:11rem;
+	margin-right: 11rem;
+}*/
+}
+.My_sql ul li{
+	border:1px solid lightgreen;
+	height: 100px;
+	width: 100px;
+	border-radius: 50px;
+	list-style: none;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	
+}
+.My_sql ul a{
+	text-decoration: none;
+	color: #000;
+}
+footer{
+	margin: 5%;
+}
+#navbarSupportedContent ul li a{
+	padding: 15px;
+}
